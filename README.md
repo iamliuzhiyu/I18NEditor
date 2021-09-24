@@ -8,4 +8,7 @@ Download [Java 16](https://jdk.java.net/16/), choose the correct system and CPU 
 
 Download jar file from the Releases Page.
 
-You can verify the sign with 
+You can verify the sign with:
+'''
+jarsigner -verify I18NEditor_x.y.z_[RELEASE/SNAPSHORT]
+'''
