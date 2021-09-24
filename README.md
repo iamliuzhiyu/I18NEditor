@@ -10,6 +10,6 @@ Download jar file from the Releases Page.
 
 You can verify the sign with:
 
-'''
+```batch\shell
 jarsigner -verify I18NEditor_x.y.z_[RELEASE/SNAPSHORT]
-'''
+```
