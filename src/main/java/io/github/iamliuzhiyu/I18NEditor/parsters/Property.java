@@ -1,4 +1,4 @@
-package io.github.iamliuzhiyu.I18NEditor.parster;
+package io.github.iamliuzhiyu.I18NEditor.parsters;
 
 
 import java.io.IOException;
